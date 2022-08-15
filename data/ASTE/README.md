@@ -1,4 +1,5 @@
-The Arctic State Estimate (ASTE) is produced by An Nguyen and Patrick Heimach.
+The Arctic State Estimate (ASTE) is described in Nguyen, A. T., Pillar, H., Ocaa, V., Bigdeli, A., Smith, T. A. et al. The Arctic Subpolar Gyre
+sTate Estimate: Description and Assessment of a Data-Constrained, Dynamically Consistent Ocean-Sea Ice Estimate for 2002{2017. Journal of Advances in Modeling Earth Systems 13, e2020MS002398 (2021).
 
 To visualise the tiles, I downloaded the sea surface height climatology for all tiles from https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_climatology/ETAN/ - I chose this variable simply because this is a small dataset that allows us to visualise the files.
 
