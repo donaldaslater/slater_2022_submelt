@@ -28,6 +28,6 @@ Note that the paths to the directories containing the above datasets will need t
 
 7. Run `data/finalise_glaciers.m`, which converts ocean temperature and salinity to ocean thermal forcing, combines time series from the different ocean products into one average time series and calculates submarine melt rate. Lastly, it filters glaciers to a final dataset used in the paper by removing glaciers that (i) have a grounding line depth >-50 m (which are either very small glaciers or have unreliable bed data), (ii) have a sill depth >-50 m (suggesting that the bathymetry is unreliable) and (iii) have a mean annual subglacial discharge <2.5 m3/s (suggesting these are very small glaciers or the hydrological basin is unreliable). These filters ultimately remove 120 glaciers, leaving a dataset of 123.
 
-8. Run `model/glacier_response.m', which runs the simple glacier model forced by the submarine melt rate time series as described in the paper. It creates modeloutput.mat, which contains the simulation output required to create the plots.
+8. Run `model/glacier_response.m`, which runs the simple glacier model forced by the submarine melt rate time series as described in the paper. It creates modeloutput.mat, which contains the simulation output required to create the plots.
 
-9. Run 'plotting/makeplots.m' to create the plots for the main paper, or 'plotting/makeplots_extendeddata.m' to make the extended data figures.
+9. Run `plotting/makeplots.m` to create the plots for the main paper, or `plotting/makeplots_extendeddata.m` to make the extended data figures.
