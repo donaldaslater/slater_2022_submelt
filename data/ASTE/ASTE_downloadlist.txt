@@ -1,0 +1,12 @@
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/THETA/THETA.0005.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/THETA/THETA.0011.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/THETA/THETA.0012.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/THETA/THETA.0014.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/THETA/THETA.0015.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/THETA/THETA.0027.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/SALT/SALT.0005.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/SALT/SALT.0011.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/SALT/SALT.0012.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/SALT/SALT.0014.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/SALT/SALT.0015.nc
+https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_monthly/SALT/SALT.0027.nc
