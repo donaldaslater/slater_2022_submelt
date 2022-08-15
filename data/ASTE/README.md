@@ -1,4 +1,4 @@
-The Arctic State Estimate (ASTE) is produced by An Nguyen and Patrick Heimach but has not yet been published. The data is arranged in tiles, so it is first necessary to decide which tiles are needed.
+The Arctic State Estimate (ASTE) is produced by An Nguyen and Patrick Heimach.
 
 To visualise the tiles, I downloaded the sea surface height climatology for all tiles from https://web.corral.tacc.utexas.edu/OceanProjects/ASTE/Release1/nctiles_climatology/ETAN/ - I chose this variable simply because this is a small dataset that allows us to visualise the files.
 
