@@ -1,4 +1,12 @@
-# Workflow
+## Required code that is not included here
+
+## Required datasets that are not included here
+
+1. BedMachine Greenland.
+2. 
+
+
+## Workflow
 
 1. Download BedMachine Greenland topography dataset. The dataset is described in Morlighem et al, 2017, GRL, and can be downloaded by following links from here (https://sites.uci.edu/morlighem/dataproducts/bedmachine-greenland/) but I used a newer version (2020-07-16) obtained directly from Mathieu.
 
